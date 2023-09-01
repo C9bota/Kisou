@@ -269,6 +269,14 @@ h3 {
   transition: .4s;
 }
 
+.btn-flat-simple-x path {
+  transition: .4s;
+}
+
+.btn-flat-simple-x:hover path {
+  fill: #6f6f6f;
+}
+
 .btn-flat-simple-x a {
   font-weight: bold;
   font-size: 18px;
